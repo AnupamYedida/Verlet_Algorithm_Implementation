@@ -1,4 +1,3 @@
-import numpy 
 
 def alpha(y,a,dt):
 	p_y = y
